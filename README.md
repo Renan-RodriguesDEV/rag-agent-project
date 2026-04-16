@@ -119,6 +119,7 @@ Exemplo de resposta:
 
 - Coloque seus PDFs na pasta `documents/` antes de consultar o endpoint.
 - Avisos de ALTS no terminal são comuns fora de GCP e geralmente não impedem o funcionamento.
+- Consulte a documentação oficial do langchain [Langchain](https://reference.langchain.com/python/).
 
 ## Autor
 
